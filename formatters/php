@@ -1,0 +1,3 @@
+#!/bin/bash
+phpcbf.phar -
+exit 0;
